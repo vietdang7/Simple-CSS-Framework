@@ -1,4 +1,4 @@
-# Simple Css Framework
+# Simple CSS Framework
 The simple CSS framework is based on 12 columns grid system. 
 
 ## Code Example
