@@ -9,7 +9,7 @@ code of main.css
 ```
 
 ## Why I create this project?
-I created this project to practice the structure of a CSS framework. The knowledge is gained from Udacity Full Stack Nanodegree.
+I created this project for practice the structure of a CSS framework. The knowledge is gained from Udacity Full Stack Nanodegree.
 
 ## Getting Started
 ### Prerequisites
