@@ -19,7 +19,7 @@ You should have code editor like **Atom** or **Sublime** for this project.
 Clone this project (Using `git`command: `git clone https://github.com/vietdang7/Simple-Css-Frame-Work.git` or through your GitDesktop application)
 
 ## Testing
-Open your `test.html` with your code editor
+Open your `index.html` with your code editor
 
 ## Modification
 You can change or add more columns in `css/main.css`
