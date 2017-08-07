@@ -16,7 +16,7 @@ I created this project for practice the structure of a CSS framework. The knowle
 You should have code editor like **Atom** or **Sublime** for this project. 
 
 ### Installation
-Clone this project (Using `git`command: `git clone https://github.com/vietdang7/Simple-Css-Frame-Work.git` or through your GitDesktop application)
+Clone this project (Using `git`command: `git clone https://github.com/vietdang7/Simple-CSS-Framework.git` or through your GitDesktop application)
 
 ## Testing
 Open your `index.html` with your code editor
